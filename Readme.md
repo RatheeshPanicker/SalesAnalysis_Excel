@@ -32,7 +32,7 @@ The goal of this project is to:
 
 ## 📷 Preview
 
-![Dashboard Preview](screenshots/dashboard-preview.png)
+![Dashboard Preview](PowerBi Dashboard snap.png)
 
 ## ⚙️ Data Description
 
