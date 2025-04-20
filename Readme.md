@@ -50,6 +50,5 @@ The data used in this project is a **sample dataset** of electronic goods sales,
 **Ratheesh Panicker**  
 📍 Dubai, UAE  
 📧 rpnckr@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🔗 [Portfolio](https://l1nk.dev/8vFhx)
+🔗 [LinkedIn](www.linkedin.com/in/ratheesh-panicker-3254481a0)  
 
